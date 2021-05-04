@@ -7,9 +7,8 @@
 - 🤔 항상 사용자의 편의를 위한 UI를 고민합니다.
 - 📖 백엔드 개발자와의 협업을 위해 백엔드를 공부합니다.
 - 😄 정돈된 코드와 커피, 롱보드를 좋아합니다.
-- 📫 EMAIL: [summerbreeze0323@gmail.com](summerbreeze0323@gmail.com)
+- 📫 Email: summerbreeze0323@gmail.com
 ```
-
 
 ## 사용 기술
 #### Frontend
