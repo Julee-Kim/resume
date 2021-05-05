@@ -68,8 +68,8 @@
     > Node.js, Express, MongoDB  
     
     
-    [![Mycafe_admin](https://i9.ytimg.com/vi/J43fSXBIjPg/mq1.jpg?sqp=CPyZyYQG&rs=AOn4CLB-SS_GeMr_pcW3oHYrh_WGQY5i4g)](https://youtu.be/J43fSXBIjPg) 
-
+    [![Mycafe_admin](https://i9.ytimg.com/vi/J43fSXBIjPg/mq1.jpg?sqp=CPyZyYQG&rs=AOn4CLB-SS_GeMr_pcW3oHYrh_WGQY5i4g)](https://youtu.be/J43fSXBIjPg)  
+    ⬆️ 시연 영상
 ---
 
   - 카페 서비스 Frontend
@@ -80,8 +80,7 @@
   - 카페 서비스 Backend
     > Node.js, Nest.js, Apollo server, Graphql, TypeORM, PostgreSQL 
   
-    [![Mycafe_admin](https://i9.ytimg.com/vi/qODjvR2ixog/mq2.jpg?sqp=CIChyYQG&rs=AOn4CLB6-UK4zP7VTSJEzDvRWYESKFuU-A)](https://youtu.be/qODjvR2ixog)
-
-
+    [![Mycafe_admin](https://i9.ytimg.com/vi/qODjvR2ixog/mq2.jpg?sqp=CIChyYQG&rs=AOn4CLB6-UK4zP7VTSJEzDvRWYESKFuU-A)](https://youtu.be/qODjvR2ixog)  
+    ⬆️ 시연 영상
 
 
