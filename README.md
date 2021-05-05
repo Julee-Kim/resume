@@ -70,7 +70,7 @@
     
     [![Mycafe_admin](https://i9.ytimg.com/vi/J43fSXBIjPg/mq1.jpg?sqp=CPyZyYQG&rs=AOn4CLB-SS_GeMr_pcW3oHYrh_WGQY5i4g)](https://youtu.be/J43fSXBIjPg) 
 
-
+---
 
   - 카페 서비스 Frontend
     > 로그인, 회원가입, 회원 정보 수정, 메뉴 목록 및 상세, 매장 목록 및 상세, 장바구니, 결제  
@@ -80,7 +80,7 @@
   - 카페 서비스 Backend
     > Node.js, Nest.js, Apollo server, Graphql, TypeORM, PostgreSQL 
   
-  
+  [![Mycafe_admin](https://i9.ytimg.com/vi/qODjvR2ixog/mq2.jpg?sqp=CIChyYQG&rs=AOn4CLB6-UK4zP7VTSJEzDvRWYESKFuU-A)](https://youtu.be/qODjvR2ixog)
 
 
 
