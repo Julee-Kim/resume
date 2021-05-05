@@ -80,7 +80,7 @@
   - 카페 서비스 Backend
     > Node.js, Nest.js, Apollo server, Graphql, TypeORM, PostgreSQL 
   
-  [![Mycafe_admin](https://i9.ytimg.com/vi/qODjvR2ixog/mq2.jpg?sqp=CIChyYQG&rs=AOn4CLB6-UK4zP7VTSJEzDvRWYESKFuU-A)](https://youtu.be/qODjvR2ixog)
+    [![Mycafe_admin](https://i9.ytimg.com/vi/qODjvR2ixog/mq2.jpg?sqp=CIChyYQG&rs=AOn4CLB6-UK4zP7VTSJEzDvRWYESKFuU-A)](https://youtu.be/qODjvR2ixog)
 
 
 
