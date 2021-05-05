@@ -67,7 +67,9 @@
   - 카페 관리자 Backend
     > Node.js, Express, MongoDB  
     
-    <img src="https://my-cafe.s3.amazonaws.com/gifs/mycafe_admin.gif" width="450px" height="300px" title="mycafe admin" alt="mycafe admin"></img>
+    
+    [![Mycafe_admin](https://i9.ytimg.com/vi/J43fSXBIjPg/mq1.jpg?sqp=CPyZyYQG&rs=AOn4CLB-SS_GeMr_pcW3oHYrh_WGQY5i4g)](https://youtu.be/J43fSXBIjPg) 
+
 
 
   - 카페 서비스 Frontend
