@@ -68,7 +68,7 @@
     > Node.js, Express, MongoDB  
     
     
-    [![Mycafe_admin](https://i9.ytimg.com/vi/J43fSXBIjPg/mq1.jpg?sqp=CPyZyYQG&rs=AOn4CLB-SS_GeMr_pcW3oHYrh_WGQY5i4g)](https://youtu.be/J43fSXBIjPg)  
+    [![Mycafe_admin](https://my-cafe.s3.ap-northeast-2.amazonaws.com/gifs/mycafe_admin_img.png)](https://youtu.be/J43fSXBIjPg)  
     ⬆️ 시연 영상
 ---
 
