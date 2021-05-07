@@ -83,7 +83,7 @@
     
     
     
-
+    [![Mycafe_admin](https://my-cafe.s3.ap-northeast-2.amazonaws.com/gifs/mycafe_admin_image.png)](https://youtu.be/J43fSXBIjPg)  
     ⬆️ 시연 영상
 
 
