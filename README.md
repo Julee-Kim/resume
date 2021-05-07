@@ -58,6 +58,19 @@
 ## 개인 프로젝트
   **My cafe**(2021.04)  
   카페 서비스, 관리자 Frontend & Backend  
+  
+  - 카페 서비스 Frontend
+    > 로그인, 회원가입, 회원 정보 수정, 메뉴 목록 및 상세, 매장 목록 및 상세, 장바구니, 결제  
+    > React.js, Apollo client, Typescript, Graphql, scss, TailwindCSS, PayPal  
+
+    
+  - 카페 서비스 Backend
+    > Node.js, Nest.js, Apollo server, Graphql, TypeORM, PostgreSQL 
+  
+    [![Mycafe_admin](https://my-cafe.s3.ap-northeast-2.amazonaws.com/gifs/mycafe_service_img.png)](https://youtu.be/qODjvR2ixog)  
+    ⬆️ 시연 영상
+
+---
     
   - 카페 관리자 Frontend
     > 로그인, 메뉴관리, 매장관리, 회원관리, 매출 통계 및 소비분석  
@@ -70,17 +83,7 @@
     
     [![Mycafe_admin](https://my-cafe.s3.ap-northeast-2.amazonaws.com/gifs/mycafe_admin_img.png)](https://youtu.be/J43fSXBIjPg)  
     ⬆️ 시연 영상
----
 
-  - 카페 서비스 Frontend
-    > 로그인, 회원가입, 회원 정보 수정, 메뉴 목록 및 상세, 매장 목록 및 상세, 장바구니, 결제  
-    > React.js, Apollo client, Typescript, Graphql, scss, TailwindCSS, PayPal  
-  
-    
-  - 카페 서비스 Backend
-    > Node.js, Nest.js, Apollo server, Graphql, TypeORM, PostgreSQL 
-  
-    [![Mycafe_admin](https://my-cafe.s3.ap-northeast-2.amazonaws.com/gifs/mycafe_service_img.png)](https://youtu.be/qODjvR2ixog)  
-    ⬆️ 시연 영상
+
 
 
