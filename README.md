@@ -62,29 +62,37 @@
   - 카페 서비스 Frontend
     > 로그인, 회원가입, 회원 정보 수정, 메뉴 목록 및 상세, 매장 목록 및 상세, 장바구니, 결제  
     > React.js, Apollo client, Typescript, Graphql, scss, TailwindCSS, PayPal  
+    > Deploy: Netlify  
 
     
   - 카페 서비스 Backend
-    > Node.js, Nest.js, Apollo server, Graphql, TypeORM, PostgreSQL 
+    > Node.js, Nest.js, Apollo server, Graphql, TypeORM, PostgreSQL  
+    > Deploy: Heroku  
   
     [![Mycafe_admin](https://my-cafe.s3.ap-northeast-2.amazonaws.com/gifs/mycafe_service_img.png)](https://youtu.be/qODjvR2ixog)  
-    ⬆️ 시연 영상
+    ⬆️ 시연 영상  
+    ...  
+    [카페 서비스 바로가기](https://6092bf8ec374440007161d4c--jolly-ritchie-7f6121.netlify.app)
 
 ---
     
   - 카페 관리자 Frontend
     > 로그인, 메뉴관리, 매장관리, 회원관리, 매출 통계 및 소비분석  
     > Vue.js, Vuex, Javascript, scss, Axios, Bootstrap  
+    > Deploy: Netlify  
   
     
   - 카페 관리자 Backend
     > Node.js, Express, MongoDB  
+    > Deploy: Heroku  
     
     
     
     
     [![Mycafe_admin](https://my-cafe.s3.ap-northeast-2.amazonaws.com/gifs/mycafe_admin_image.png)](https://youtu.be/BMpCPa2kx6s)  
-    ⬆️ 시연 영상
+    ⬆️ 시연 영상  
+    ...  
+    [카페 관리자 바로가기](https://6094ed2ba464030008f07c54--pensive-roentgen-8770e3.netlify.app)
 
 
 
