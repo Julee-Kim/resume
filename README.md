@@ -22,7 +22,7 @@
 #### Backend
   - Node.js
   - Express
-  - Next.js
+  - Nest.js
   - Apollo server
   - Graphql
   - MongoDB, PostgreSQL  
