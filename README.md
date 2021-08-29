@@ -68,7 +68,7 @@
     [![Mycafe_admin](https://my-cafe.s3.ap-northeast-2.amazonaws.com/gifs/mycafe_service_img.png)](https://youtu.be/qODjvR2ixog)  
     ⬆️ 시연 영상  
     ...  
-    [카페 서비스 바로가기](https://6098ca1ab28fdf0007f02b99--jolly-ritchie-7f6121.netlify.app)
+<!--     [카페 서비스 바로가기](https://6098ca1ab28fdf0007f02b99--jolly-ritchie-7f6121.netlify.app) -->
 
 ---
     
@@ -87,7 +87,7 @@
     [![Mycafe_admin](https://my-cafe.s3.ap-northeast-2.amazonaws.com/gifs/mycafe_admin_image.png)](https://youtu.be/BMpCPa2kx6s)  
     ⬆️ 시연 영상  
     ...  
-    [카페 관리자 바로가기](https://6098d08a5242bd0008bb4730--pensive-roentgen-8770e3.netlify.app)
+<!--     [카페 관리자 바로가기](https://6098d08a5242bd0008bb4730--pensive-roentgen-8770e3.netlify.app) -->
 
 
 
